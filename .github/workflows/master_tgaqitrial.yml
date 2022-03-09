@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TGAQITrial'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72D1F16A63EC4E16A6F8525D9F244CC9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BBFD871D0FFD430393EF878411458B63 }}
